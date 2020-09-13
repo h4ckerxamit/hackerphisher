@@ -16,8 +16,8 @@
 </p>
 
 ###### <p align="center">*This is official repository maintained by us*
-###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/bhavik_tutorials/) ❤️*
-###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)✌*
+###### <p align="center"> *[**@Bhavik_Tutorials**](https://www.instagram.com/h4ckeramit/) ❤️*
+###### <p align="center"> *You can check [youtube](https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w)✌*
 ---
   
 ## What is Shark??
@@ -60,13 +60,13 @@ $ shark
 ```
 $ termux-setup-storage && pkg update && pkg upgrade && pkg install git -y
 
-$ git clone https://github.com/Bhaviktutorials/shark && cd shark && chmod +x * && ./setup
+$ git clone https://github.com/h4ckerxamit/hackerphisher && cd shark && chmod +x * && ./setup
 
 $ shark
 ```
 ### * `Commands` for Kali-Linux :-
 ```
-$ git clone https://github.com/Bhaviktutorials/shark
+$ git clone https://github.com/h4ckerxamit/hackerphisher
 
 $ cd shark
 
@@ -87,19 +87,17 @@ $ shark
 
 ## Development by :- 
 
-## Developer / Author: Ashish / [Bhavik Oza](https://github.com/Bhaviktutorials/)
+## Developer / Author: H4CKERAMIT / [H4CKERAMIT](https://github.com/h4ckerxamit)
 
-## Company: [Bhavik Tutorials](https://www.youtube.com/bhaviktutorials)
+## Company: [H4CKERAMIT](https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w)
 
 ## Credit :-
 
-### [DarkSecDevelopers HTML Code](https://github.com/DarkSecDevelopers)
 
-### [jaykali](https://github.com/jaykali)
 
 
 
 ## To Know about Ethical Hacking , Android And Kali Linux Do Follow Us:-
 
-[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/Bhaviktutorials/)
-[![Youtube](https://www.youtube.com/channel/UCMhYgk0-nIHHtnRNkL9zpgQ)](<img src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" width="200" alt="youtube logo png images" />)
+[![Github](https://github.frapsoft.com/social/github.png)](https://github.com/h4ckerxamit/)
+[![Youtube](https://www.youtube.com/channel/UCQckV4-K1tgkVYJYx8Ogt-w)](<img src="https://www.freepnglogos.com/uploads/youtube-logo-png-images-0.png" width="200" alt="youtube logo png images" />)
